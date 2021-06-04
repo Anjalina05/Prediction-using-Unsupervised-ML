@@ -1,6 +1,6 @@
 # Description
 
-**Data Science and Business Analytics(GRIP JUNE 2021**
+**Data Science and Business Analytics(GRIP JUNE 2021)**
 
 Task 2 : Prediction using Unsupervised ML
 
